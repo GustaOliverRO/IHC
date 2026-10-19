@@ -1,16 +1,114 @@
-1 - Na parte superior do home tem uma refresh do site
+1 - Na parte superior do home tem uma 
+refresh do site
 
-2 - Na parte de files ao ser iniciado um upload de um arquivo o programa demorou excessivamente
+2 - Na parte de files ao ser iniciado um 
+upload de um arquivo o programa demorou 
+excessivamente
 
-2.2 - Na parte de file e usar a opção "Open Locally", o programa não faz nada.
+2.2 - Na parte de file e usar a opção 
+"Open Locally", o programa não faz nada.
 
-OBS - Na página e ao segurar op backespace, o site cometa a voltar e a atualizar loucamente, trazendo uma não boa iteração. (Retirar essa funcionalidade ou deixar claro uma habilitação ou não)
+OBS - Na página e ao segurar op 
+backespace, o site cometa a voltar e a 
+atualizar loucamente, trazendo uma não 
+boa iteração. (Retirar essa 
+funcionalidade ou deixar claro uma 
+habilitação ou não)
 
-2.3 - Na pagina file, ao criar um novo e ao Create now, o site vai para uma nova aba e não da a possibilidade clara de retornar a página file novamente.
+2.3 - Na pagina file, ao criar um novo e 
+ao Create now, o site vai para uma nova 
+aba e não da a possibilidade clara de 
+retornar a página file novamente.
 
-3 - Na página inicial, na parte "contacts", ao testar a ligação de video, não ficou fácil o acesso para a chamada, foi necessário ir até o perfil da pessoa que será ligada para efetuar, poderia ser mais acessível essa possibilidade.
+3 - Na página inicial, na parte 
+"contacts", ao testar a ligação de video, 
+não ficou fácil o acesso para a chamada, 
+foi necessário ir até o perfil da pessoa 
+que será ligada para efetuar, poderia ser 
+mais acessível essa possibilidade.
 
 4 - Calendar
 
 Começa aqui a analise
+
+- Sobre o **LOGIN**, usando as 
+ferramentas de acessibilidade da tecla 
+tab, foi possível com facilidade fazer o 
+login somente pela tecla da máquina de 
+trabalho;
+
+- Na parte inicial de **home**, também 
+usando o recurso do tab para navegação 
+foi possível chegar, após alguns minutos 
+de clicks, na barra superior esquerda, 
+onde há uma aba escondida que guarda o 
+links de quase todos os recursos do site.
+Usando as setas "up, down, left, ritgh" 
+chegamos na primeira aba de análise, a 
+aba "**office**", e o objetivo será criar 
+um arquivo .md e colar um texto pré-
+selecionado, salvar o arquivo e tentar 
+enviá-lo.
+
+- Na parte de office, após somente uma 
+tecla de tab, foi possível já criar e 
+iniciar o arquivo .md. A parte de 
+desenvolvimento do arquivo e da colagem 
+dos dados foram tranquilos e não houve 
+problemas de interação nesta parte. 
+Entretanto, no momento de salvar o 
+arquivo e sair, não deu certo, há uma 
+seta, que passa a informação a 
+parentemente de "concluído", mas ao 
+navegar com tab, chegar na mesma e 
+confirmar, nada acontece, frustando o 
+desenvolvimento e utilização final da 
+criação do documento. Dessa forma, foi 
+necessário usar o mouse para concluir e 
+sair da parte de escrita do arquivo.
+
+-> Ao voltar para a parte de "office" e 
+ir na parte de criação de .md novamente 
+com a utilização de um clique tab, foi 
+capturado que o site obriga o usuário a 
+terminar a criação do arquivo, não dando 
+a possibilidade de cancelar com o uso de 
+nenhuma tecla, exemplo a tecla básica 
+"esc", sendo necessário novamente de 
+forma frustante o uso do mouse para 
+continuação da avaliação de 
+acessibilidade.
+
+-> Reparei que o office, oferece a 
+criação de diversos tipos de arquivos 
+como .md, .txt, .odg, .pptx, .xlsx, e foi 
+percebido que o problema de obrigação de 
+criação como relatado no ponto .md que 
+não da a possbilidade de cancelar a 
+criação de arquivo se extende para todos 
+os tipos de arquivos.
+
+-> Outro relato observado de problema é 
+que utilizando o auxiliar de navegação 
+sem touch por meio da tecla tab e teclado 
+somente, ao tentar excluir um arquivo 
+criado, no caso um .md, e chegar no 
+simbolo "delete" e clicar em "enter" 
+confirmando a ação o site não deixa o 
+dono do arquivo finalizar a ação 
+alegando erro "423". Somente foi 
+possível a confirmação e realmente a 
+exclusão do arquivo por meio do uso do 
+touch, mouse, para efetuar a confirmação 
+da atividade.
+
+OBS: Foi realizado todo o passo a passo 
+descrito acima posteriormente com o uso 
+do mouse para verificar se o site prove 
+do recurso de mostrar o "nome" ou a 
+"funcionalidade" de cada "link"/"botão", 
+dessa forma, facilitando o uso para 
+pessoas que tenham dificuldade em 
+distinguir objetos animados e facilidade 
+em leitura e compressão de textos.
 
