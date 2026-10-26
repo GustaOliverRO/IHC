@@ -1,0 +1,229 @@
+FORMULÁRIO DE AVALIAÇÃO SIMPLIFICADA DE ACESSIBILIDADE
+
+(Baseado no curso MO622 - Fatores Humanos em Sistemas Computacionais,
+ Prof.a M. Cecília C. Baranauskas, Segundo Semestre de 2007. IC - UNICAMP)
+
+Avaliador: Gustavo Henrique Oliveira Silva
+Descrição da URL: Tela inicial do Site
+URL: https://mais.ufpr.br/apps/spreed/
+Data: 20/10/2006
+
+-------------------------------------------------------------------------------
+NÍVEIS DE SEVERIDADE:
+0 - Não concordo que seja um problema de usabilidade
+1 - Problema cosmético - Corrigir se houver tempo extra
+2 - Problema pequeno - Baixa prioridade na correção
+3 - Problema grave - Alta prioridade na correção
+4 - Problema catastrófico - Correção obrigatória para entrega do produto
+===============================================================================
+
+
+===============================================================================
+PARTE 1: AVALIAÇÃO MANUAL - USO DE NAVEGADORES GRÁFICOS E TEXTUAIS
+===============================================================================
+
+-------------------------------------------------------------------------------
+a) Ao utilizar um navegador gráfico (e.g., Internet Explorer, Firefox)
+-------------------------------------------------------------------------------
+
+1. Desabilitar imagens - Verificar se são disponibilizados textos alternativos
+   apropriados (mais informações em Textos alternativos).
+   * Como fazer:
+     - No Chrome 13: usar o complemento web developer ou ir em Opções >
+       Configurações avançadas > Configurações de conteúdo > Imagens >
+       Não mostrar nenhuma imagem.
+     - No Firefox 6: usar o complemento web developer ou ir em Opções >
+       Conteúdo > Carregar imagens automaticamente.
+     - No Internet Explorer 9: pressionar F12 para mostrar o painel Developer
+       Tools > ir em Ferramentas > Desabilitar Imagens ou ir em Opções da
+       Internet > Avançado > Multimídia > Mostrar imagens.
+
+   Problemas e exemplos: Desabilitando com o uso do web developer as seguintes
+   funções: Display Alt Atributes, Display Image Dimensions, Display Image Paths
+   e Hide Images. Ainda na página de home inicial, foi realizado a manipulação
+   e teste na mesma, apesar da dificuldade e estranhez que ficou sem o apoio 
+   das imagens, foi possível navegar tranquilamente pelo site, não aprensentando
+   nenhum sinal de não acessibildiade de maneira inicial.
+   ____________________________________________________
+   Severidade (0-4): [0]
+
+-------------------------------------------------------------------------------
+
+2. Desabilitar som - Verificar se o conteúdo sonoro continua disponível por
+   meio de equivalentes textuais.
+
+   Problemas e exemplos:  Com o aúdio desativado, permaneceu o uso normal do
+   site uma vez que o mesmo não é atrelado a recursos de áudio. Por um lado é 
+   bom pois engloba quase todos os usuários, não excluindo pessoas do uso que 
+   possuem alguma deficiência de audição.
+   ____________________________________________________
+   Severidade (0-4): [0]
+
+-------------------------------------------------------------------------------
+
+3. Variar o tamanho da fonte (usando controles do navegador) - Verificar se o
+   tamanho da fonte varia de forma adequada e se a página continua usável com
+   grandes tamanhos de fonte.
+   * Como fazer:
+     - Tecla Control (CTRL) e usar a rolagem do mouse ou do touchpad ou;
+     - Tecla Control (CTRL) e pressionar as teclas "+" ou "-", para aumentar
+       ou reduzir o tamanho da fonte;
+     - Tecla Control (CTRL) combinada com a tecla 0 (zero) volta ao tamanho
+       original da fonte.
+
+   Problemas e exemplos: Tanto a aba home quanto a aba office foram avaliadas
+   nesse tópico. O resultado é que ambas se comportaram de forma semelhante,
+   tendo uma boa resposta para o aumento da fonte até 140%, se redimensionando 
+   e mantendo uma boa formatação para leitura. Entretanto, para o processo 
+   contrário, de diminuição da fonte, houve um comportamento estranho, onde 
+   os conjuntos de informações se direcionaram para o centro e da tela,
+   dificultando muito a manipulação do site em fonte reduzida de 50% do tamanho
+   para menos desta resolução. Dessa forma, por não ser algo que será utilizado
+   com frequência, a diminuição da fonte por esse método, não é um problema tão
+   severo, apesar de carregar uma possiblidade de melhora ao site.
+   ____________________________________________________
+   Severidade (0-4): [1]
+
+-------------------------------------------------------------------------------
+
+4. Variar resoluções de tela.
+   * Como fazer:
+     - Usando o complemento web developer no Firefox 6 ou no Chrome 13: ir em
+       redimensionar > escolher uma das resoluções disponíveis ou definir outra;
+     - No Internet Explorer 9: pressionar F12 para mostrar o painel Developer
+       Tools > ir em Ferramentas > Redimensionar > escolher uma das resoluções
+       disponíveis ou definir uma outra.
+
+   Problemas e exemplos: Foi manipulado dois conjuntos de resoluções, 1000x500
+   e 1280x720 em ambos os casos o site comportou de forma excelente para o 
+   redimencionamento, não perdendo informações que são disponibilizadas de 
+   início na parte do home.
+   ____________________________________________________
+   Severidade (0-4): [0]
+
+-------------------------------------------------------------------------------
+
+5. Redimensionar a janela da aplicação para tamanhos menores que o máximo -
+   Verificar se a rolagem horizontal não é exigida.
+
+   Problemas e exemplos: Neste tópico, novamente o site se comportou de forma 
+   muito boa, se redimensionando e mantendo uma boa apresentação ao usuário, a 
+   única ressalva seria o leve atraso que ele leva para isso, porém é esperado
+   que esse atraso aconteça, não sendo "instântaneo" a atualização de proporção.
+   ____________________________________________________
+   Severidade (0-4): [0]
+
+-------------------------------------------------------------------------------
+
+6. Verificar se o contraste é adequado.
+   * Sugestões de teste:
+     - Imprimir a página em escala de cinza (ou em preto e branco).
+     - Se você preferir uma abordagem mais ecológica e prática, uma sugestão
+       é o Colorblind Filter.
+
+   Problemas e exemplos: Não foi percebido nada em relação ao contraste da 
+   aplicação.
+   ____________________________________________________
+   Severidade (0-4): [0]
+
+-------------------------------------------------------------------------------
+
+7. Acessar links e formulários da página por meio da tecla TAB, sem auxílio do
+   mouse - Verificar se todos os links são acessíveis e estão bem descritos,
+   bem como se os controles dos formulários são acessíveis.
+   * Mais informações:
+     - Bloqueio da navegação por teclado;
+     - Técnicas para encontrar conteúdo em um website.
+
+   Problemas e exemplos: Serão relatados diversos problemas onde cada um
+   terá uma severidade própria.
+	 - Sobre o **LOGIN**, usando as ferramentas de acessibilidade da tecla 
+	 tab, foi possível com facilidade fazer o login somente pela tecla da 
+	 máquina de trabalho;
+	 Severidade [0];
+	 
+	 - Na parte inicial de **home**, também usando o recurso do tab para 
+	 navegação foi possível chegar, após alguns minutos de clicks, na barra 
+	 superior esquerda, onde há uma aba escondida que guarda o links de quase 
+	 todos os recursos do site. Usando as setas "up, down, left, ritgh" 
+	 chegamos na primeira aba de análise, a aba "**office**", e o objetivo será
+	 criar um arquivo .md e colar um texto pré-selecionado, salvar o arquivo e 
+	 tentar enviá-lo.
+	   Na parte de office, após somente uma tecla de tab, foi possível já criar
+	 e iniciar o arquivo '.md'. A parte de desenvolvimento do arquivo e da 
+	 colagem dos dados foram tranquilos e não houve problemas de interação
+	 nesta parte. Entretanto, no momento de salvar o arquivo e sair, não deu 
+	 certo, há uma seta, que passa a informação aparentemente de "concluído", 
+	 mas ao navegar com tab, chegar na mesma e confirmar, nada acontece, 
+	 frustando o desenvolvimento e utilização final da criação do documento.
+	 Dessa forma, foi necessário usar o mouse para concluir e sair da parte de 
+	 escrita do arquivo;
+	 Severidade [3];
+	 
+	 - Ao voltar para a parte de "office" e ir na parte de criação de .md 
+	 novamente com a utilização de um clique tab, foi capturado que o site 
+	 obriga o usuário a terminar a criação do arquivo, não dando a 
+	 possibilidade de cancelar com o uso de nenhuma tecla, exemplo a tecla
+	 básica "esc", sendo necessário novamente de forma frustante o uso do 
+	 mouse para continuação da avaliação de acessibilidade;
+	 Severidade [3];
+	 
+	- Reparei que o office, oferece a criação de diversos tipos de arquivos 
+	como .md, .txt, .odg, .pptx, .xlsx, e foi percebido que o problema de 
+	obrigação de criação como relatado no ponto .md que não da a possbilidade
+	de cancelar a criação de arquivo se extende para todos os tipos de arquivos;
+	Severidade [3];
+	
+	- Outro relato observado de problema é que utilizando o auxiliar de navegação
+	sem touch por meio da tecla tab e teclado somente, ao tentar excluir um
+	arquivo criado, no caso um .md, e chegar no simbolo "delete" e clicar em 
+	"enter" confirmando a ação, o site não deixa o dono do arquivo finalizar a 
+	ação alegando erro "423". Somente foi possível a confirmação e realmente a 
+	exclusão do arquivo por meio do uso do touch, mouse, para efetuar a 
+	confirmação da atividade.
+	Severidade [4];
+	
+	OBS: Foi realizado todo o passo a passo descrito acima posteriormente com o 
+	uso do mouse para verificar se o site prove o recurso de mostrar o "nome" ou 
+	a "funcionalidade" de cada "link"/"botão", dessa forma, facilitando o uso
+	para pessoas que tenham dificuldade em distinguir objetos animados e
+	facilidade em leitura e compressão de textos.
+  ____________________________________________________
+  
+-------------------------------------------------------------------------------
+b) Ao utilizar um navegador textual (e.g., Lynx)
+-------------------------------------------------------------------------------
+	 Verificar se as informações disponibilizadas são equivalentes àquelas
+   oferecidas pelo navegador gráfico.
+
+   Problemas e exemplos: Usando da extensão do navegador firefox "web developer"
+   e desativando todos os recursos de CSS e de aplicação de imagem. Foi 
+   observado um site de muita dificuldade de manipulação, apesar de os recursos
+   se manterem possível de serem acessados. Todas as ações relatadas, foram 
+   refeitas aqui e o problema maior foi a dificuldade de entrar os links 
+   corretos para navegar pelas propriedades do site.
+   ____________________________________________________
+   Severidade (0-4): [2]
+
+===============================================================================
+PARTE 2: AVALIAÇÃO SEMIAUTOMÁTICA
+===============================================================================
+(Utilizar uma das ferramentas semiautomáticas de avaliação de acessibilidade)
+
+Heurística/Diretriz: Contraste de cor (WCAG 1.4.3) e
+Texto Alternativo(WCAG 1.1.1)
+Problemas e exemplos: O Axe DevTools detectou 6 problemas no total. 
+- 3 Erros Sérios de contraste: Textos da barra superior ("Talk", campo de busca e 
+  botões como "Start meeting now") usam cores escuras sobre o fundo azul escuro, 
+  atingindo proporções críticas (até 1.01:1), impossibilitando a leitura legível.
+- 3 Erros Críticos de conteúdo: As imagens informativas dos painéis centrais 
+  (meetings.png, mentions.png e reminders.png) não possuem o atributo 'alt', 
+  ficando inacessíveis para leitores de tela.
+Severidade (0-4): [ 3 ]
+
+Comentários dos resultados:
+A interface do Nextcloud Talk na URL avaliada falha em requisitos básicos de 
+visibilidade e descrição estrutural. Os problemas de contraste nos botões e na 
+busca impedem a navegação fluida, e a falta de texto alternativo gera barreiras 
+críticas para usuários com deficiência visual.
+
