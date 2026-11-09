@@ -1,0 +1,24 @@
+ASA -> Pesquisa
+
+Pesquisa 1:
+Importância: Proporcionar uma boa experiência para todos os usuários, independente 
+de possíveis impedimentos por deficiência ou falta de acessibilidade. Entregar, 
+um site com pluralidade usual, onde todos estarão confortável em usufruir.
+
+Pontos a Considerar na Análise: Contraste e Legibilidade; Navegação por Teclado;
+Descrição de Imagens; Títulos e Estutura de Cabeçalhos; Formulários Acessiveis; 
+Videos Legendados e Transcritos; Tradução de Texto para Língua de Sinais; 
+Compatibilidade com Leitores de Tela; Responsividade;
+Tempo Suficiente para Interatividade;
+
+Pesquisa 2: 
+
+-> Um site acessível é aquele que garante para o maior número de usuários o
+acesso, utilização e compreensão, independete de deficiência, limitação ou 
+tecnologia utilizada.
+
+Mas deve ser acessível a quem ? -> Deve ser acessível ao público, aos usuários em 
+sua pluralidade e características individuais de cada um, em caso de não 
+possibilidade de assistir todos, deve se abraçar a maior quantidade possível, 
+tornando assim o site de um uso para todos os usuários, independete de qualquer
+barreira.
